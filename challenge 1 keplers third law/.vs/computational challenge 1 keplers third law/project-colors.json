@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f09adc17-3d02-4046-93c5-80cba3d89555": {
+      "ProjectGuid": "f09adc17-3d02-4046-93c5-80cba3d89555",
+      "DisplayName": "computational challenge 1 keplers third law",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
